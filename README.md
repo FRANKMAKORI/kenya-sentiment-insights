@@ -1,7 +1,4 @@
 ---
-
-## 📘 `README.md`
-
 ```markdown
 # 🇰🇪 Kenya Sentiment & Policy Analytics Dashboard  
 
