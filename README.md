@@ -1,4 +1,3 @@
----
 ```markdown
 # 🇰🇪 Kenya Sentiment & Policy Analytics Dashboard  
 
